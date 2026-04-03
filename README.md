@@ -1,6 +1,6 @@
-# Intrusive Thoughts
+# Recontrol
 
-> A game about battling intrusive thoughts through interaction and physics-based object behavior.
+A game about battling intrusive thoughts through interaction and physics-based object behavior.
 
 ## Screenshots
 
