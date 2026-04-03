@@ -5,8 +5,8 @@
 ## Screenshots
 
 <p align="center">
-  <img src="./Images/Image1.png" width="45%" />
-  <img src="./Images/Image2.png" width="45%" />
+  <img src="Images/Image1" width="45%" />
+  <img src="Images/Image2" width="45%" />
 </p>
 
 ## About
